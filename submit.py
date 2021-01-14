@@ -7,7 +7,7 @@ myUserId = 0 # change this to your userid
 assetid = 0
 assetType = 11 # 12 is pants 11 is shirt
 itemName = "There is no security"
-itemDesc 'King cannot call changing the url to submit data to "adding security"'
+itemDesc = 'King cannot call changing the url to submit data to "adding security"'
 itemProductId = 0 #this you can get from checking the page of the item but doesnt matter king doesnt check this.
 creatorId = 0 # if creatorType is a Group then its groupid if it's user then its userid
 itemPrice = 5 # king doesnt check this either
