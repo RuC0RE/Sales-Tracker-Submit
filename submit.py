@@ -18,7 +18,7 @@ this = [{"id":assetid,"itemType":"Asset","assetType":assetType,"name":itemName,"
          "purchaseCount":sales,"favoriteCount":favs}]
 proxy=None
 
-api_url = "https://clothing-tracker.herokuapp.com/api/saveInventory"
+api_url = "https://clothing-tracker.herokuapp.com/api/saveClothing"
 """
 So king calls changing the api url from https://sales-server.glitch.me to clothing-tracker.herokuapp.com "adding security" nice one.
 
